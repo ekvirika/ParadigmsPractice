@@ -1,2 +1,2 @@
 # ParadigmsPractice
-Practice problems.
+Practice problems for midterm. 
