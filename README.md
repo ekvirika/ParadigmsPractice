@@ -1,0 +1,2 @@
+# ParadigmsPractice
+Practice problems.
